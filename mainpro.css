@@ -295,7 +295,6 @@ h3{
     }
 }
 
-/* For screens smaller than 480px */
 @media (max-width: 480px) {
     .container {
         flex-direction: column;      
